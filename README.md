@@ -1,16 +1,16 @@
-# booster
+# Device Booster
 
-A new Flutter project.
+We're working on [this Dribbble design today](https://dribbble.com/shots/14120527-Phone-cleaner-app) by the incredibly talented [Andrey Zhukov](https://dribbble.com/aminis):
 
-## Getting Started
+![Phone Cleaner App, by Andrey Zhukov](./preview.jpg)
 
-This project is a starting point for a Flutter application.
+I loved the shape of the CircleDiskThing as well as the dotty progress bars, and thought it'd be fun to make!
 
-A few resources to get you started if this is your first Flutter project:
+You can catch a video walkthrough of the entire example 📹 below:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Steps
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [ ] Tabs
+- [ ] Disk Thing Painter
+- [ ] Dotted Progress Bars
+- [ ] Fancy Buttons
